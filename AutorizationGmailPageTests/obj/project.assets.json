@@ -1336,11 +1336,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\99.2_Microsoft VS\\Repo\\AutorizationGmailPageTests\\AutorizationGmailPageTests\\AutorizationGmailPageTests\\AutorizationGmailPageTests.csproj",
-      "projectName": "AutorizationGmailPageTests",
-      "projectPath": "D:\\99.2_Microsoft VS\\Repo\\AutorizationGmailPageTests\\AutorizationGmailPageTests\\AutorizationGmailPageTests\\AutorizationGmailPageTests.csproj",
+      "projectUniqueName": "D:\\99.2_Microsoft VS\\Repo\\AutorizationGmailPageTests\\AutorizationMailPageTests\\AutorizationGmailPageTests\\MailPageTests.csproj",
+      "projectName": "MailPageTests",
+      "projectPath": "D:\\99.2_Microsoft VS\\Repo\\AutorizationGmailPageTests\\AutorizationMailPageTests\\AutorizationGmailPageTests\\MailPageTests.csproj",
       "packagesPath": "C:\\Users\\evgenii.konograi\\.nuget\\packages\\",
-      "outputPath": "D:\\99.2_Microsoft VS\\Repo\\AutorizationGmailPageTests\\AutorizationGmailPageTests\\AutorizationGmailPageTests\\obj\\",
+      "outputPath": "D:\\99.2_Microsoft VS\\Repo\\AutorizationGmailPageTests\\AutorizationMailPageTests\\AutorizationGmailPageTests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\evgenii.konograi\\AppData\\Roaming\\NuGet\\NuGet.Config",

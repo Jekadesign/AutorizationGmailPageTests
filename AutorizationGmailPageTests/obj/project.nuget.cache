@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1UT/oJXUxc3B+QdilgdVYgCO4N3epMgtJGt6yMQn5ZtDdAFYVyOGUWh2rUY9VRGgbR3f4/k9RgrsR0xNq6ai/A==",
+  "dgSpecHash": "FNHnxuAh9Wq15m98GJ353vSmdRkGEqmjve90A4C4T9hC1bQakQ5l09mCOmheg+YUe6cwef+NICIO+eZPH5esrQ==",
   "success": true,
-  "projectFilePath": "D:\\99.2_Microsoft VS\\Repo\\AutorizationGmailPageTests\\AutorizationGmailPageTests\\AutorizationGmailPageTests\\AutorizationGmailPageTests.csproj",
+  "projectFilePath": "D:\\99.2_Microsoft VS\\Repo\\AutorizationGmailPageTests\\AutorizationMailPageTests\\AutorizationGmailPageTests\\MailPageTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\evgenii.konograi\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\evgenii.konograi\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
