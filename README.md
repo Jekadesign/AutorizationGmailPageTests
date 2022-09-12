@@ -1,1 +1,1 @@
-# AutorizationGmailPageTests1
+# AutorizationMailPageTests1
